@@ -79,3 +79,5 @@ public/
 # node
 node_modules/
 
+# hexo
+db.json
