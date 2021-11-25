@@ -1,6 +1,9 @@
 name: Marat blog continuous integration
 
-on: [push]
+on:
+  push:
+    paths-ignore:
+      - source/_drafts/**
 jobs:
   updateBlog:
     runs-on: ubuntu-latest
