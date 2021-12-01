@@ -29,3 +29,12 @@ tags:
 * To customise the theme, it was decided to drop the git submodule and commit the content to the main repo
 * One **Deploy Key** can only be associated with one github repository
 
+## Other references
+### Ghost
+Ghost provides Markdown type blog-writting experience, much lightweighter than Wordpress. 
+* https://ghost.org/docs/install/ 
+* https://noob.tw/install-ghost/
+
+### Hexo on Github
+https://www.muji.dev/2020/02/16/hexo-github-page/
+
